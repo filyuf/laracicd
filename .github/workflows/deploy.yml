@@ -31,7 +31,7 @@ jobs:
 
       # Zip the Laravel project
       - name: Zip project
-        run: zip -r laravel.zip . -x "node_modules/*" "storage/*" ".git/*" "vendor/*"
+        run: zip -r laracicd.zip . -x "node_modules/*" "storage/*" ".git/*" "vendor/*"
 
       # Upload build artifacts
       - name: Upload build artifacts
