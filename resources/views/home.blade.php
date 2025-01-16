@@ -5,7 +5,7 @@
                 <div class="card-header">{{ __('Hai') }}</div>
 
                 <div class="card-body">
-                     {{ __('Dunia') }}
+                     {{ __('Duniaa') }}
                 </div>
             </div>
         </div>
